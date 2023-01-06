@@ -1,0 +1,3 @@
+Baza koju uzimas se nalazi van zipovanog fajla. BeijingPM20100101_20151231 - to je ta baza.
+
+Baza 0: Peking - BeijingPM20100101_20151231.csv
